@@ -1,13 +1,15 @@
-# Programación, Robótica y 3D avanzada
+# Programación, Robótica y 3D avanzada ([232320GE020](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/232320GE020/))
 
 ## CEP Úbeda
 
-Febrero 2023
+## Febrero 2023
 
 
 ![CCbySA](images/CCbySQ_88x31.png) Licencia CC by 
 
 ### José Antonio Vacas @javacasm
+
+[https://bit.ly/RobAvanzada](https://bit.ly/RobAvanzada)
 
 ## Objetivos 
 
@@ -38,3 +40,13 @@ Febrero 2023
     * Utilización y mantenimiento de impresoras 3d
     * Diseño 3D
     
+
+## Sesiones
+
+Día|Horario|Lugar
+---|---|---
+06/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
+16/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
+20/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
+06/03/2023| 	17:00-20:00| 	IES LOS CERROS. BIBLIOTECA
+15/03/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
