@@ -42,3 +42,12 @@ Calibramos tiempos para giros de 90 grados y movimientos de 50 cm
 ![](./images/luces_bonotes_maqueen_quitar_extension4.png)
 ![](./images/luces_bonotes_maqueen_quitar_extension_apagamos.png)
 ![](./images/luces_bonotes_maqueen_sin_extension.png)
+
+
+## Ejemplos
+
+Radio: rover, coreografía
+Funciones: control maqueen, "librerias"
+Variables: medida de sensores. Dado con imágenes
+Termostato: intervalos, ventilador
+Ultrasonido: sigueme, personalidades
