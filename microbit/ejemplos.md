@@ -1,5 +1,5 @@
 [v1 los botones encienden 
-leds(https://makecode.microbit.org/_XoChXwfF12HJ)
+leds](https://makecode.microbit.org/_XoChXwfF12HJ)
 
 
 [v2 funciones sin extensión 
@@ -118,3 +118,5 @@ Conexión de componentes:
 ![](./images/EjemploSensoresLCD.png)
 
 [Ejemplo con LCD y sensores](https://makecode.microbit.org/_D0wECTdkHMK5)
+
+![](./images/MontajeLCDSensores.jpeg)
