@@ -1,6 +1,6 @@
-# Programación, Robótica y 3D avanzada ([232320GE020](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/232320GE020/))
+# Programación, Robótica II
 
-## CEP Úbeda
+
 
 ## Febrero 2023
 
@@ -36,17 +36,3 @@
     * Comunicaciones por radio
     * Proyecto: rover espacial
 
-* 3D
-    * Utilización y mantenimiento de impresoras 3d
-    * Diseño 3D
-    
-
-## Sesiones
-
-Día|Horario|Lugar
----|---|---
-06/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
-16/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
-20/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
-06/03/2023| 	17:00-20:00| 	IES LOS CERROS. BIBLIOTECA
-15/03/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
