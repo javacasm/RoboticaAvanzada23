@@ -5,9 +5,9 @@
 ## Febrero 2023
 
 
-![CCbySA](images/CCbySQ_88x31.png) Licencia CC by 
+![CCbySA](images/CCbySQ_88x31.png) Licencia CC by @javacasm 
 
-### José Antonio Vacas @javacasm
+### José Antonio Vacas 
 
 [https://bit.ly/RobAvanzada](https://bit.ly/RobAvanzada)
 
