@@ -16,8 +16,6 @@
 * Aprender técnicas de programación de bloques avanzadas: funciones, arrays, temporizadores
 * Conocer y usar sensores actuadores con micro:bit
 * Saber realizar maniobras con robots
-* Utilizar y mantener en buen uso las impresora 3D
-* Aprender a diseñar en 3D
 
 ## Contenidos
 
