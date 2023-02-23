@@ -16,6 +16,7 @@
 * Aprender técnicas de programación de bloques avanzadas: funciones, arrays, temporizadores
 * Conocer y usar sensores actuadores con micro:bit
 * Saber realizar maniobras con robots
+* Conectar componentes electrónicos
 
 ## Contenidos
 
