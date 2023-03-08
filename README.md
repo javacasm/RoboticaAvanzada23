@@ -1,13 +1,11 @@
-# Programación, Robótica y 3D avanzada ([232320GE020](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/232320GE020/))
-
-## CEP Úbeda
+# Programación, Robótica II
 
 ## Febrero 2023
 
 
-![CCbySA](images/CCbySQ_88x31.png) Licencia CC by 
+![CCbySA](images/CCbySQ_88x31.png) Licencia CC by @javacasm 
 
-### José Antonio Vacas @javacasm
+### José Antonio Vacas 
 
 [https://bit.ly/RobAvanzada](https://bit.ly/RobAvanzada)
 
@@ -16,8 +14,7 @@
 * Aprender técnicas de programación de bloques avanzadas: funciones, arrays, temporizadores
 * Conocer y usar sensores actuadores con micro:bit
 * Saber realizar maniobras con robots
-* Utilizar y mantener en buen uso las impresora 3D
-* Aprender a diseñar en 3D
+* Conectar componentes electrónicos
 
 ## Contenidos
 
@@ -35,8 +32,3 @@
     * Control remoto
     * Comunicaciones por radio
     * Proyecto: rover espacial
-
-* 3D
-    * Utilización y mantenimiento de impresoras 3d
-    * Diseño 3D
-    
