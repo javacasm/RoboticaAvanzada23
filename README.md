@@ -40,13 +40,3 @@
     * Utilización y mantenimiento de impresoras 3d
     * Diseño 3D
     
-
-## Sesiones
-
-Día|Horario|Lugar
----|---|---
-06/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
-16/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
-20/02/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1
-06/03/2023| 	17:00-20:00| 	IES LOS CERROS. BIBLIOTECA
-15/03/2023| 	17:00-20:00| 	CEP ÚBEDA. AULA B3.1

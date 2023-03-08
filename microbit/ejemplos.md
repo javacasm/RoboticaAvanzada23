@@ -168,4 +168,22 @@ Cuando recibamos datos numéricos del rover los mostramos en la fila 1
 [Proyecto mando v3](https://makecode.microbit.org/_EADA3w304YCR)
 
 
+## Uso de Pines
+
+Lectura analógica + PWM
+
+## Riego
+
+Humedad suelo + LCD + Relé
+
+## Iluminación automática
+
+LCD + LDR + LED PWM
+
+## Meteo
+
+LM35 o DHT11 + LCD
+
+
+
 
