@@ -13,7 +13,6 @@ Similar al linkado
 
 [V3 autoapagado](https://makecode.microbit.org/_hcuAMWasM12a)
 
-
 ## Movimientos maqueen
 
 Definimos las funciones de movimiento:
@@ -83,20 +82,37 @@ Usamos una variable
 ## Ejemplos
 
 * Radio: rover, coreografía
-* Funciones: control maqueen, "librerias"
+* Funciones para el movimiento de maqueen que podemos reutilizar como "librerias" [Proyecto](https://makecode.microbit.org/_aMKidVTHAUoJ):
+![](./images/funciones_movimiento.png)
 * Variables: medida de sensores. Dado con imágenes
+
+    [Proyecto](https://makecode.microbit.org/_YJhPu47syfjs)
+
+    ![](./images/dado_imagens.png)
+
 * Termostato: intervalos, ventilador
 * Ultrasonido: sigueme, personalidades
 
 
 ## Sesión 2
 
-* Maqueen funciones
-* Dado en grupo usando radio
-* Control de maqueen por radio
+
+* Radio:
+    Fundamental establecer el mismo ID para las microbit del mismo grupo
+    * Dado en grupo usando radio. Todas las micro:bit tienen el mismo programa y emiten y reciben datos por radio. Creamos una función para mostrar las caras del dado tanto al recibirlos como al agitarlos y emitirlos. [Proyecto](https://makecode.microbit.org/_RRT0tffa7YVY)
+    ![](./images/dado_%20imagenes_grupo.png)
+    * Control de maqueen por radio
+
+[Receptor v1](https://makecode.microbit.org/_iY0EY3cma9kf)
+
+![](./images/receptor_maqueen_v1.png)
+
+
 
 ## Sesión 3
 
+
+    * 
 ### Kit avanzado
 
 [Kit avanzado](https://tienda.bricogeek.com/microbit/1686-starter-kit-sensores-37-en-1-para-microbit.html)
@@ -183,7 +199,4 @@ LCD + LDR + LED PWM
 ## Meteo
 
 LM35 o DHT11 + LCD
-
-
-
 
