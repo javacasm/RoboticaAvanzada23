@@ -1,6 +1,6 @@
 # Programación, Robótica II
 
-## Febrero 2023
+## Enero-Febrero 2024
 
 
 ![CCbySA](images/CCbySQ_88x31.png) Licencia CC by @javacasm 
